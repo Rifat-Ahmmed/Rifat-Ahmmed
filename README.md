@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rifat-Ahmmed
+- 👀 I’m interested in Robotics, Programming.
+- 🌱 I’m currently learning Pythoh.
